@@ -1,0 +1,74 @@
+{
+  "original_name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt",
+  "original_size": 261034920,
+  "original_sha256": "c387a977e35795e8f77b009e019e69722963819c26b55e4a679e09d4279ae35d",
+  "chunk_size": 20971520,
+  "num_chunks": 13,
+  "chunks": [
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part00",
+      "size": 20971520,
+      "sha256": "b030045d3e7f3d604b6997153bc72ca82402205027d86a977b0ebd365ce2e6a7"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part01",
+      "size": 20971520,
+      "sha256": "3c598c209292d714654e4448fd347ccb73304131e5a12450eaf2624a740d967b"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part02",
+      "size": 20971520,
+      "sha256": "fc7060b1975c4b2e45aedced70ad5b31cce292f89713be6b49ccdee4af5d28b5"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part03",
+      "size": 20971520,
+      "sha256": "dc131da2bff67a1103aac3380fec00c23c548eebe6bef6b9c3407ce497bee480"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part04",
+      "size": 20971520,
+      "sha256": "c9428af8bdafa8de12de93f9f5fc494b473c16cf65c8c864805fbf411346535f"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part05",
+      "size": 20971520,
+      "sha256": "ab4550fac9a6ab2f453eb90054e1490ed3f6f33828a058ba9dec652ec6927d6a"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part06",
+      "size": 20971520,
+      "sha256": "80be4d1d4d75598bcb9484fe92decff5f57fbe5f59ee00a27ac1938c7ab2d1b7"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part07",
+      "size": 20971520,
+      "sha256": "0573544521c1f81d85cf03db85253205e37f19b91fbdcf14008c5cd22ade6927"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part08",
+      "size": 20971520,
+      "sha256": "ff508a8f842e3a0022a5b3d3f4d7a7814c58ac2f6682d4910d95ed4dc15fa102"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part09",
+      "size": 20971520,
+      "sha256": "3258c02bbf777661fba79e36aa8d7b9be37012c56450e9c0858c19e3173aab30"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part10",
+      "size": 20971520,
+      "sha256": "71db06fed7ddc30d29b23eba894773a9a33611d38ff37a6d24465d0bdf6a7694"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part11",
+      "size": 20971520,
+      "sha256": "325ca3f2f502ac48d292ca984647c98303722d373e043ac5993cc61b8bd4aff0"
+    },
+    {
+      "name": "vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt.part12",
+      "size": 9376680,
+      "sha256": "2fa24677ac208f886829f530063a78c2081b916448864facaba96f4fa32d4bec"
+    }
+  ]
+}

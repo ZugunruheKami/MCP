@@ -42,3 +42,17 @@ python restore_split.py bigfile.txt.manifest.json
 This concatenates the parts (in order), verifies every chunk's SHA-256 **and**
 the reassembled file's SHA-256, then writes the original back. Both scripts are
 pure standard-library Python 3 — no dependencies.
+
+## Files in this repo stored as split parts
+
+| Original | Size | Parts | Restore |
+|----------|------|-------|---------|
+| `vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64` (wheel, >100MB) | 261 MB | `*.part00`–`*.part12` (20MB each) | `python restore_split.py vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt` |
+
+After restoring, rename the `.txt` to `.whl` to `pip install` it:
+
+```bash
+python restore_split.py vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt
+mv vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.txt vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.whl
+pip install vllm-0.22.0-cp38-abi3-manylinux_2_28_x86_64.whl
+```
