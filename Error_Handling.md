@@ -3,7 +3,15 @@
 <img width="787" height="500" alt="image" src="https://github.com/user-attachments/assets/c0d9993e-1dea-4230-8402-ed9b606367da" />
 <img width="587" height="412" alt="image" src="https://github.com/user-attachments/assets/06aca1e1-de27-46bd-a06f-06cbef9e712b" />
 <img width="797" height="413" alt="image" src="https://github.com/user-attachments/assets/732be909-c611-4ee3-a9e2-1e18e61ccfe6" />
-
+A4
+Lifecycle in the session header
+The environment pill is always visible: status dot, runtime name, and a menu with pods, capabilities, repo pointer, idle countdown, Keep alive 24h, and Release now. Releasing is safe by design because of the persistence contract (A6).
+A5
+Opt-in right-panel tabs
+Files / Context / Agents / Shell are always present. Browser and Computer tabs appear only when those capabilities were opted into ? the tab strip is a truthful map of what this session can do.
+A6
+Persistence contract
+Two classes with different guarantees. Persisted: transcript, audit log, generated artifacts (auto-synced to session store; optionally pinned to OneDrive), context refs, graph-memory links. Rebuilt: pods, repository clone (re-cloned from origin at the recorded commit), browser/desktop state. Uncommitted repo changes are the one loss case ? the hibernate flow nudges a commit before sleep.
 
 > This is a great question about error handling mechanisms for the Tavily and Atlassian MCP server integrations. Let me think about the different types of errors that could occur and how to handle them properly:
 > 
