@@ -1,4 +1,5 @@
-*Thinking...*
+<img width="504" height="554" alt="image" src="https://github.com/user-attachments/assets/f03133af-8b1f-4239-acdb-bd3a7b54e511" />
+
 <img width="625" height="479" alt="image" src="https://github.com/user-attachments/assets/1c2243fc-ba74-4663-8245-16a2e196eade" />
 <img width="627" height="482" alt="image" src="https://github.com/user-attachments/assets/fe86f04b-1649-4ae0-b33c-4280248dfbd1" />
 <img width="635" height="492" alt="image" src="https://github.com/user-attachments/assets/5552c0ab-5455-4a29-95d8-f9f4485aaadf" />
