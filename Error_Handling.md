@@ -1,4 +1,8 @@
 <img width="787" height="474" alt="image" src="https://github.com/user-attachments/assets/f87150cb-ec82-4ed9-afff-d3b5ee05c9ed" />
+<img width="791" height="497" alt="image" src="https://github.com/user-attachments/assets/dc33533f-464a-455e-bf0f-d00570971c32" />
+<img width="787" height="500" alt="image" src="https://github.com/user-attachments/assets/c0d9993e-1dea-4230-8402-ed9b606367da" />
+<img width="587" height="412" alt="image" src="https://github.com/user-attachments/assets/06aca1e1-de27-46bd-a06f-06cbef9e712b" />
+<img width="797" height="413" alt="image" src="https://github.com/user-attachments/assets/732be909-c611-4ee3-a9e2-1e18e61ccfe6" />
 
 
 > This is a great question about error handling mechanisms for the Tavily and Atlassian MCP server integrations. Let me think about the different types of errors that could occur and how to handle them properly:
